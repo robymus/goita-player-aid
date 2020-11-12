@@ -24,8 +24,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.98994949"
-     inkscape:cx="304.60472"
-     inkscape:cy="548.56756"
+     inkscape:cx="530.58731"
+     inkscape:cy="615.67987"
      inkscape:document-units="mm"
      inkscape:current-layer="g4504"
      inkscape:document-rotation="0"
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -175,22 +175,6 @@
            d="M 84.587485,94.374412 76.568977,102.6694"
            id="path3498-8" />
       </g>
-      <rect
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#8b88c3;fill-opacity:1;stroke:none;stroke-width:0.245492px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         id="rect2954-9"
-         width="12.989"
-         height="3.1887105"
-         x="262.9931"
-         y="-46.037319"
-         transform="rotate(45)" />
-      <rect
-         style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#8b88c3;fill-opacity:1;stroke:none;stroke-width:0.245492px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
-         id="rect2954-7-2"
-         width="12.989"
-         height="3.1887105"
-         x="277.02667"
-         y="-32.003769"
-         transform="rotate(45)" />
       <path
          style="font-variation-settings:normal;display:inline;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
          d="m 185.86593,91.488518 4.79651,1.839902 0.006,60.99205 -4.71513,1.97705"
